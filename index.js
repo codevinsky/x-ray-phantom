@@ -22,7 +22,8 @@ var methods = [
 'type',
 'back',
 'wait',
-'evaluate'
+'evaluate',
+'screenshot'
 ];
 
 /**
